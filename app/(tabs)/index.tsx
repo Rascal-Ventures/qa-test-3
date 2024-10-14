@@ -1,9 +1,10 @@
 import { Image, StyleSheet, Platform } from 'react-native';
+import TodoList from "@/components/Todo";
 
 
 export default function HomeScreen() {
   return (
-    <></>
+      <TodoLists></TodoLists>
   );
 }
 
