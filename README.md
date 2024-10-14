@@ -37,5 +37,5 @@ Once you have completed it please email us and submit your review of the code.
 2. Start the app on the web (Android and iOS is also available)
 
    ```bash
-    npx run web
+    npm run web
    ```
